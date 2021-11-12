@@ -1,7 +1,6 @@
 aiohttp==3.8.0
 aiosignal==1.2.0
 alpha-vantage==2.3.1
-apturl==0.5.2
 argon2-cffi==20.1.0
 async-generator==1.10
 async-timeout==4.0.1
